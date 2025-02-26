@@ -13,7 +13,7 @@ messages.
 ## Setup
 Clone the repository :
 ```
-  git clone https://github.com/yourusername/minitalk.git
+  git https://github.com/BouhcineAmezouar7/minitalk.git
   cd minitalk
 ```
 
